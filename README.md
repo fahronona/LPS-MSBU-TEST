@@ -3,7 +3,9 @@
 ## Menjalankan projectv via visual studio code
 
 1.Buka folrder test dan buka file widget_test.dart
+<br/>
 <img width="218" alt="Screenshot 2023-09-30 at 13 33 26" src="https://github.com/fahronona/LPS-MSBU-TEST/assets/43464944/d688bf94-28be-488e-88a9-789bc068e2dc">
+<br/>
 2.Jalankan program dengan mengklik "Run" di atas fungsi main
 <img width="502" alt="Screenshot 2023-09-30 at 13 35 19" src="https://github.com/fahronona/LPS-MSBU-TEST/assets/43464944/af90a2a2-635f-4157-b65e-b9a027430338">
 3.Lihat hasil output print pada terminal debug console
